@@ -43,6 +43,6 @@ This course has been a transformative experience. Not only did I learn how to cr
 
 Thank you to my instructors and peers for their support and guidance throughout this learning journey. I look forward to sharing my future projects here on GitHub!
 
----
+https://youtu.be/aEpcG6Dwl5U
 
 Feel free to check out my projects and provide feedback!
